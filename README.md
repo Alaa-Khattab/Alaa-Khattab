@@ -5,7 +5,7 @@
 
 - <div align="left"> 🌍  I'm based in Palestine </div>
 - <div align="left"> 🔭 I’m currently working on <a href="https://www.openscreenplay.com/about-us">Open Screenplay</a> as Full-Stack python and React Developer </div>
-- <div align="left"> 📫 How to reach me: <a href="alaakhattab92@gmail.com">alaakhattab92@gmail.com</a></div>
+- <div align="left"> 📫 How to reach me: <a href="mailto:alaakhattab92@gmail.com">alaakhattab92@gmail.com</a></div>
 <!--
 - <p align="left" dir="auto">
   Do you like my open source projects? <a href="https://stars.github.com/nominate/">Nominate me to Github Stars <g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐</g-emoji></a>
