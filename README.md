@@ -8,19 +8,18 @@
 </a>
 </div>
 
-
-
-
 <br />
 
+<div align="center"> 📫 How to reach me: <a href="alaakhattab92@gmail.com">alaakhattab92@gmail.com</a></div>
+<div align="center"> 🔭 I’m currently working on <a href="https://www.openscreenplay.com/about-us">Open Screenplay</a> as Full-Stack python and React Developer </div>
+
+<br />
 
 <div align="center"> 
 <a href="#"> 
 <img src="https://github-readme-stats.vercel.app/api?username=Alaa-Khattab&theme=slateorange&show_icons=true&hide_border=false&count_private=true">
 </a>
 </div>
-
-
 
 
 <!--
