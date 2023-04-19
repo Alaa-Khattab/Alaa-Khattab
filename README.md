@@ -44,6 +44,7 @@
 <br />
 <br />
   
+ ### <div align="left"> Github Stats:</div>
 <div align="left"> 
 <a href="#"> 
 <img src="https://github-readme-stats.vercel.app/api?username=Alaa-Khattab&theme=slateorange&show_icons=true&hide_border=false&count_private=true">
