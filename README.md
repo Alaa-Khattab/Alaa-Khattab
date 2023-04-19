@@ -11,6 +11,7 @@
   Do you like my open source projects? <a href="https://stars.github.com/nominate/">Nominate me to Github Stars <g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐</g-emoji></a>
 </p>
 -->
+
 ### <div align="left"> Links:</div>
 <div align="left"> 
 <a href="https://www.linkedin.com/in/alaa-khattab/" target="_blank"> 
@@ -24,6 +25,7 @@
 </div>
 -->
 
+<br />
 <br />
 
 ### <div align="left"> Skills:</div>
